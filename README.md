@@ -5,4 +5,4 @@
 - 📫 How to reach me:
   - instagram: @nevil.laia
   - Linkedin: Neville Jeremy Onorato Laia
-  - Gmail: ketjeh.developer@gmail.com
+  - Gmail: nevillejro.laia@gmail.com
