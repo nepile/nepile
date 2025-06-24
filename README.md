@@ -8,3 +8,6 @@
   - Gmail: nevillejro.laia@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nepile&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepile&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nepile)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nepile&theme=github)
