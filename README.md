@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @nepile
-- 👀 I’m interested in ecosystem Backend Engineer
-- 🌱 I’m currently learning spring boot
+- 👀 I’m interested in ecosystem Backend & DevOps Engineer
 - 💞️ I’m looking to collaborate on my friends
