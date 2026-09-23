@@ -2,4 +2,4 @@
 - 👀 I’m interested in ecosystem Backend & DevOps Engineer
 - 💞️ I’m looking to collaborate on my friends
 
-[![Top Langs](https://vercel.app)](https://github.com/nepile)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nepile&layout=compact)
